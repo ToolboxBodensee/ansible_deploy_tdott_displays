@@ -1,0 +1,25 @@
+---
+
+- name: Apply basic ssh config on all hosts
+  hosts: all
+  tags: 
+   - auth
+   - ssh
+  roles:
+    - ssh_authorized_keys
+    - sshd
+  vars: 
+    - ansible_ssh_user: 'ansible'
+
+- name: Apply common basic config on all hosts
+  hosts: all
+  tags: 
+   - auth
+   - base
+  roles:
+    - home_environment
+    - base-packages
+
+
+
+

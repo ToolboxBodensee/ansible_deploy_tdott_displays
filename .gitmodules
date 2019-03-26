@@ -1,6 +1,3 @@
-[submodule "roles/install-bat"]
-	path = roles/install-bat
-	url = https://github.com/gantsign/ansible_role_bat.git
 [submodule "roles/ssh_authorized_keys"]
 	path = roles/ssh_authorized_keys
 	url = https://github.com/ffbsee/role-ssh_authorized_keys.git
