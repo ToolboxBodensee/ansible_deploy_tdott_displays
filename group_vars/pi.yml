@@ -1,3 +1,6 @@
+---
+
+# Some variables for ssh and user management
 admins:
   - l3d
 
@@ -12,6 +15,9 @@ users:
 accounts:
   - l3d
 
+# disable useless stuff
 home_sweet_home: false
 add_ethz: false
+
+
 
