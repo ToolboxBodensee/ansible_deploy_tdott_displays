@@ -1,0 +1,5 @@
+---
+
+# customize witch repo should be choosen
+infobeamer_content_repo: 'https://github.com/ToolboxBodensee/info-display-kitchen.git'
+
