@@ -20,6 +20,16 @@
     - home_environment
     - base-packages
 
-
+- name: Install info-beamer binary
+  hosts: all
+  tags: 
+   - binary
+   - bin
+   - info-beamer
+   - info
+   - beamer
+   - setup
+  roles:
+    - info-beamer
 
 
