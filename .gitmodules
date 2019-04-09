@@ -13,3 +13,6 @@
 [submodule "roles/base-packages"]
 	path = roles/base-packages
 	url = https://gitea.see-base.de/toolbox/role-base_packages.git
+[submodule "roles/info-beamer"]
+	path = roles/info-beamer
+	url = https://gitea.see-base.de/toolbox/role_info-beamer.git
