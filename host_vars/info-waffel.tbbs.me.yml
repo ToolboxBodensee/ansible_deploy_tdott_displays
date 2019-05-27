@@ -1,0 +1,4 @@
+---
+# customize witch repo should be choosen
+infobeamer_content_repo: 'https://github.com/c3woc/c3woc-info-beamer.git'
+
