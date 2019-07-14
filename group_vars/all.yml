@@ -26,6 +26,10 @@ accounts:
   - alex
   - mart
 
+
+# which is the default info-beamer f00
+infobeamer_content_repo: 'https://github.com/ffbsee/technikcamp-info-beamer.git'
+
 # disable useless stuff
 ## needed for rasbian
 home_sweet_home: false
