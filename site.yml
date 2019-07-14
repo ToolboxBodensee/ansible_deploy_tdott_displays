@@ -32,4 +32,14 @@
   roles:
     - info-beamer
 
-
+- name: Install special services for info-beamer - ffbsee
+  hosts: all
+  tags:
+   - special
+   - ffbsee
+   - sevices
+   - ffbsee_special
+   - ffbsee-special
+   - crazy
+  roles:
+   - ffbsee_special

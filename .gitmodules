@@ -16,3 +16,6 @@
 [submodule "roles/info-beamer"]
 	path = roles/info-beamer
 	url = https://gitea.see-base.de/toolbox/role_info-beamer.git
+[submodule "roles/ffbsee_special"]
+	path = roles/ffbsee_special
+	url = https://github.com/ffbsee/role_special-camp-infobeamer.git
