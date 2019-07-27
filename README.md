@@ -7,7 +7,7 @@ Dies ist ein Ansible Playbook um info-beamer mit dem Fahrplan auf dem Technik Ca
  clonen
 -----------
 ```bash
-git clone --recursive https://github.com/ffbsee/ansible-deploy-camp-displays.git
+git clone --recursive https://github.com/ffbsee/ffbsee-deploy-camp-display-ansible.git
 
 # Clone the Submodules too
 cd ansible-deploy-camp-displays
