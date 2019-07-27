@@ -16,3 +16,6 @@
 [submodule "roles/ffbsee_special"]
 	path = roles/ffbsee_special
 	url = https://github.com/ffbsee/role_special-camp-infobeamer.git
+[submodule "roles/base-packages"]
+	path = roles/base-packages
+	url = https://github.com/chaos-bodensee/role-base_packages.git
