@@ -42,5 +42,11 @@
    - ffbsee_special
    - ffbsee-special
    - crazy
+   - break
+   - pause
+   - pausenmusik
+   - musik
+   - ccc
   roles:
    - ffbsee_special
+   - pausenmusik

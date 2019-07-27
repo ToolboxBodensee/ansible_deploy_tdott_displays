@@ -19,3 +19,6 @@
 [submodule "roles/base-packages"]
 	path = roles/base-packages
 	url = https://github.com/chaos-bodensee/role-base_packages.git
+[submodule "roles/pausenmusik"]
+	path = roles/pausenmusik
+	url = https://github.com/chaos-bodensee/role-background-pause.git
