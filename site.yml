@@ -29,6 +29,7 @@
    - info
    - beamer
    - setup
+   - info_beamer
   roles:
     - info-beamer
 
