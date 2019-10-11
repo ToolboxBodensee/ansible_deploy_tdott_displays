@@ -1,13 +1,13 @@
- Deploy Technik Camp info-beamer
+ Deploy Tag der offenen Toolbox Tür info-beamer
 ================================
-![Technik Camp](https://github.com/ffbsee/ffbsee-grafik/blob/master/events/technikcamp2019-sticker.svg "Technik Camp 2019")
+![TdoTT19](https://github.com/ToolboxBodensee/streamassets/blob/master/background/toolbox_tdot.svghttps://github.com/ffbsee/ffbsee-grafik/blob/master/events/technikcamp2019-sticker.svg "Technik Camp 2019")
 
-Dies ist ein Ansible Playbook um info-beamer mit dem Fahrplan auf dem Technik Camp zu deployen.
+Dies ist ein Ansible Playbook um info-beamer mit dem Fahrplan auf dem TdoTT zu deployen.
 
  clonen
 -----------
 ```bash
-git clone --recursive https://github.com/ffbsee/ffbsee-deploy-camp-display-ansible.git
+git clone --recursive https://github.com/ToolboxBodensee/ansible_deploy_tdott_displays.git
 
 # Clone the Submodules too
 cd ansible-deploy-camp-displays
