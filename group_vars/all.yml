@@ -34,7 +34,7 @@ accounts:
 
 
 # which is the default info-beamer f00
-infobeamer_content_repo: 'https://github.com/ffbsee/technikcamp-info-beamer.git'
+infobeamer_content_repo: 'https://github.com/ToolboxBodensee/tdott19-info-beamer.git'
 
 # disable useless stuff
 ## needed for rasbian
