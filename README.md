@@ -1,5 +1,8 @@
  Deploy Tag der offenen Toolbox Tür info-beamer
 ================================
+
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/events/ansible_deploy_tdott_displays). Auf GitHub befindet sich lediglich ein Mirror**
+
 ![TdoTT19](https://github.com/ToolboxBodensee/streamassets/blob/master/background/toolbox_tdot.svghttps://github.com/ffbsee/ffbsee-grafik/blob/master/events/technikcamp2019-sticker.svg "Technik Camp 2019")
 
 Dies ist ein Ansible Playbook um info-beamer mit dem Fahrplan auf dem TdoTT zu deployen.
